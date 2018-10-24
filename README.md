@@ -8,7 +8,7 @@ HTTP Method: POST
 
 # Resource Url
 
-https://cofred.com/secure/api/v1/collections
+https://cofredpayaccess.com/api/v1/collections
 
 # Headers
 
