@@ -70,7 +70,8 @@ ResponseMessage	Response Message which will return Transaction success message
 "responseCode":"200",
 "CollectionCode":139497170178,
 "MerchantReference":"5656565656",
-"qr_imageurl":"https://cofred.com/secure/assets/qr_image/139497170178.png",
+"CurrencySymbol":"GHS",
+"qr_imageurl":"https://cofredpayaccess.com/assets/qr_image/139497170178.png",
 "responseMessage":"Payment Code Generated Successfully!"
 }
 
