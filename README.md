@@ -31,12 +31,17 @@ timestamp: 1505628722
 
 Field	M/O	Length	Format	Description
 
-Amount	M		Numeric	Transaction Amount 
+Amount	M		Numeric	Transaction Amount
+
+Currency Symbol	M		Letters	Transaction Currency (GHS,NGN,USD etc.)
 
 Reference	M		Alpha Numeric	Merchant Reference ID
 
 Callback url	M		Url	Callback url to get Response after user makes the payment.
 
+# Supported Currencies
+
+GHS, NGN, USD, KES, UGX, TZS
 
 # Callback Code Response
 
