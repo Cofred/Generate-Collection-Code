@@ -8,7 +8,7 @@ HTTP Method: POST
 
 # Resource Url
 
-https://cofredpayaccess.com/api/v1/collections
+https://cofredpay.com/api/v1/collections
 
 # Headers
 
@@ -71,7 +71,7 @@ ResponseMessage	Response Message which will return Transaction success message
 "CollectionCode":139497170178,
 "MerchantReference":"5656565656",
 "CurrencySymbol":"GHS",
-"qr_imageurl":"https://cofredpayaccess.com/assets/qr_image/139497170178.png",
+"qr_imageurl":"https://cofredpay.com/assets/qr_image/139497170178.png",
 "responseMessage":"Payment Code Generated Successfully!"
 }
 
